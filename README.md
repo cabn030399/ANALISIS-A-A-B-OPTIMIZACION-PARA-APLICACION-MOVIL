@@ -1,4 +1,4 @@
-# %% [markdown]
+
 # # 📱 ANÁLISIS A/A/B: OPTIMIZACIÓN DE APLICACIÓN MÓVIL
 # 
 # **Autor:** Carlos Armando Borja Nava  
